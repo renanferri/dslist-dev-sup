@@ -108,7 +108,7 @@ http://localhost:8080
 * `GET /games/{id}` — busca game por ID
 * `GET /lists` — lista todas as listas de games
 * `GET /lists/{id}/games` — lista os games de uma lista
-* `POST /lists/{listId}/replacement` — troca posição de jogos em uma lista
+* `POST /lists/{listId}/games` — troca posição de jogos em uma lista
 
 ---
 
